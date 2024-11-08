@@ -12,7 +12,10 @@ A simple (and terrible) Java application that generates unique random numbers wi
 
 ## Getting Started
 
-To compile and run, download the source, navigate to the directory and run:
+To compile and run, download the source, navigate to the directory and run (from cmd/terminal):
 
 javac -d bin src/Main.java src/gui/*.java src/utils/*.java
+
+Then run
+
 java -cp bin Main
