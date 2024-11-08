@@ -1,0 +1,1 @@
+Very shitty rng generator, but once one number is generated it will not repeat the number. 
