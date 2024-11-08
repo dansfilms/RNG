@@ -62,7 +62,7 @@ public class RNG extends JFrame {
         minField.setFont(font);
         maxField.setFont(font);
         generateButton.setFont(font);
-        resetButton.setFont(new Font("Arial", Font.PLAIN, fontSize - 2)); // Slightly smaller for reset button
+        resetButton.setFont(new Font("Arial", Font.PLAIN, fontSize - 2)); // Slightly smaller for fresh start button
         resultLabel.setFont(font);
         outputArea.setFont(new Font("Arial", Font.BOLD, fontSize + 10));
         outputArea.setEditable(false);
